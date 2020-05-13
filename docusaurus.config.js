@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'blog', // Usually your repo name.
   plugins: ['@docusaurus/plugin-google-gtag'],
   themeConfig: {
-    googleAnalytics: {
+    gtag: {
       trackingID: 'UA-78450319-1',
       // Optional fields.
       anonymizeIP: false, // Should IPs be anonymized?
