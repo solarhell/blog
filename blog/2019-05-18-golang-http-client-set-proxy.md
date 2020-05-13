@@ -13,7 +13,7 @@ tags: [golang]
 
 <!--truncate-->
 
-```golang
+```go
 package main
 
 import (

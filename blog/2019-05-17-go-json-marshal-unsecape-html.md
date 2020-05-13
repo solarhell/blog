@@ -1,5 +1,5 @@
 ---
-id: golang-json-marshal-unsecape-html
+id: go-json-marshal-unsecape-html
 title: golang json.Marshal 避免转义html
 # author: Yangshun Tay
 # author_title: Front End Engineer @ Facebook
