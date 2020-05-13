@@ -1026,15 +1026,15 @@
     "@docusaurus/utils" "^2.0.0-alpha.54"
     globby "^10.0.1"
 
-"@docusaurus/plugin-google-analytics@^2.0.0-alpha.37":
-  version "2.0.0-alpha.37"
-  resolved "https://registry.npm.taobao.org/@docusaurus/plugin-google-analytics/download/@docusaurus/plugin-google-analytics-2.0.0-alpha.37.tgz#e546bf61b35d4abd7e65bb9c4f6c02ba5c2297e3"
-  integrity sha1-5Ua/YbNdSr1+ZbucT2wCulwil+M=
-
 "@docusaurus/plugin-google-analytics@^2.0.0-alpha.54":
   version "2.0.0-alpha.54"
   resolved "https://registry.npm.taobao.org/@docusaurus/plugin-google-analytics/download/@docusaurus/plugin-google-analytics-2.0.0-alpha.54.tgz#6fcacded6d308c5fee400aa4df704b904ae8c46d"
   integrity sha1-b8rN7W0wjF/uQAqk33BLkEroxG0=
+
+"@docusaurus/plugin-google-gtag@^2.0.0-alpha.37":
+  version "2.0.0-alpha.37"
+  resolved "https://registry.npm.taobao.org/@docusaurus/plugin-google-gtag/download/@docusaurus/plugin-google-gtag-2.0.0-alpha.37.tgz#3bf992e2722fcd71afac5bb7df49824eb191d186"
+  integrity sha1-O/mS4nIvzXGvrFu330mCTrGR0YY=
 
 "@docusaurus/plugin-google-gtag@^2.0.0-alpha.54":
   version "2.0.0-alpha.54"

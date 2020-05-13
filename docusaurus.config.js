@@ -6,7 +6,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'solarhell', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
+  plugins: ['@docusaurus/plugin-google-gtag'],
   themeConfig: {
     googleAnalytics: {
       trackingID: 'UA-78450319-1',
