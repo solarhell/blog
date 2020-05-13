@@ -32,45 +32,41 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '关于我...',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: '就职于',
+              to: 'shein',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: '坐标',
+              to: '江苏南京',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '你可以在这里找到我...',
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/6080485/solarhell',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Telegram',
+              href: 'https://telegram.me/solarhell',
             },
           ],
         },
         {
-          title: 'More',
+          title: '我的朋友们...',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: '歪比巴卜',
+              href: 'https://niconiconi.org/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'YasinChan',
+              href: 'https://yasinchan.com/',
             },
           ],
         },
@@ -82,12 +78,6 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
         blog: {
           routeBasePath: '/', // Set this value to '/'.
           showReadingTime: true,
