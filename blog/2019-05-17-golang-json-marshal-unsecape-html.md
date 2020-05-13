@@ -14,7 +14,7 @@ tags: [golang]
 
 <!--truncate-->
 
-[json.Marshal](https://pkg.go.dev/encoding/json?tab=doc#Marshal)
+[json.Marshal 文档链接](https://pkg.go.dev/encoding/json?tab=doc#Marshal)
 
 `String values encode as JSON strings coerced to valid UTF-8, replacing invalid bytes with the Unicode replacement rune. So that the JSON will be safe to embed inside HTML <script> tags, the string is encoded using HTMLEscape, which replaces "<", ">", "&", U+2028, and U+2029 are escaped to "\u003c","\u003e", "\u0026", "\u2028", and "\u2029". This replacement can be disabled when using an Encoder, by calling SetEscapeHTML(false).`
 
