@@ -35,12 +35,10 @@ module.exports = {
           title: '关于我...',
           items: [
             {
-              label: '就职于',
-              to: 'shein',
+              label: '就职于@shein',
             },
             {
-              label: '坐标',
-              to: '江苏南京',
+              label: '坐标@江苏南京',
             },
           ],
         },
@@ -48,12 +46,16 @@ module.exports = {
           title: '你可以在这里找到我...',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/users/6080485/solarhell',
-            },
-            {
               label: 'Telegram',
               href: 'https://telegram.me/solarhell',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/solarhell',
+            },
+            {
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/users/6080485/solarhell',
             },
           ],
         },
