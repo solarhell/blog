@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'solarhell的小破站',
+  tagline: '简单胜过复杂',
   url: 'https://blog.solarhell.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -14,7 +14,7 @@ module.exports = {
       algoliaOptions: {}, // Optional, if provided by Algolia
     },
     navbar: {
-      title: 'My Site',
+      title: 'solarhell的小破站',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `<a href="http://www.beian.miit.gov.cn" rel="nofollow">苏ICP备15030398号-1</a>`,
     },
   },
   presets: [
