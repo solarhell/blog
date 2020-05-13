@@ -9,6 +9,32 @@ tags: [git]
 ---
 
 
-网上流传的用法大都引用了 `golang.org/x/net/proxy`（并且使用了已经 **deprecated** 的`dialer`)，实际上现在可以直接用这种更简单的写法。
+代码目录 ~/Code
 
-<!--truncate-->
+公司项目目录 ~/Code/Work
+
+
+.gitconfig
+
+```
+[includeIf "gitdir:~/Code/"]
+  path = .gitconfig-personal
+[includeIf "gitdir:~/Code/Work/"]
+  path = .gitconfig-work
+```
+
+.gitconfig-personal
+
+```
+[user]
+name = solarhell
+email = songjiaxin2008@gmail.com
+```
+
+.gitconfig-work
+
+```
+[user]
+name = 程序员
+email = 程序员@公司.com
+```
