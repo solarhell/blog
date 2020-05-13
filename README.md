@@ -1,5 +1,7 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2fded57-30be-4fb2-9800-247d1680c062/deploy-status)](https://app.netlify.com/sites/solarhell-blog/deploys)
+
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation

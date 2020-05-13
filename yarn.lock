@@ -1026,6 +1026,11 @@
     "@docusaurus/utils" "^2.0.0-alpha.54"
     globby "^10.0.1"
 
+"@docusaurus/plugin-google-analytics@^2.0.0-alpha.37":
+  version "2.0.0-alpha.37"
+  resolved "https://registry.npm.taobao.org/@docusaurus/plugin-google-analytics/download/@docusaurus/plugin-google-analytics-2.0.0-alpha.37.tgz#e546bf61b35d4abd7e65bb9c4f6c02ba5c2297e3"
+  integrity sha1-5Ua/YbNdSr1+ZbucT2wCulwil+M=
+
 "@docusaurus/plugin-google-analytics@^2.0.0-alpha.54":
   version "2.0.0-alpha.54"
   resolved "https://registry.npm.taobao.org/@docusaurus/plugin-google-analytics/download/@docusaurus/plugin-google-analytics-2.0.0-alpha.54.tgz#6fcacded6d308c5fee400aa4df704b904ae8c46d"
