@@ -39,7 +39,7 @@ func Marshal(v interface{}) ([]byte, error) {
 
 解决办法就是自定义一个`encoder`。
 
-```golang
+```go
 bf := bytes.NewBuffer([]byte{})
 jsonEncoder := json.NewEncoder(bf)
 jsonEncoder.SetEscapeHTML(false)
