@@ -13,6 +13,7 @@ tags: [git]
 
 公司项目目录 ~/Code/Work
 
+<!--truncate-->
 
 .gitconfig
 
