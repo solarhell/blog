@@ -1,10 +1,6 @@
 ---
 id: golang-http-client-set-proxy
 title: golang http客户端使用http代理/socks代理
-# author: Yangshun Tay
-# author_title: Front End Engineer @ Facebook
-# author_url: https://github.com/yangshun
-# author_image_url: https://avatars0.githubusercontent.com/u/1315101?s=400&v=4
 tags: [golang]
 ---
 
