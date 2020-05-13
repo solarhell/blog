@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://blog.solarhell.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'solarhell', // Usually your GitHub org/user name.
+  projectName: 'blog', // Usually your repo name.
   themeConfig: {
     algolia: {
       apiKey: 'api-key',
