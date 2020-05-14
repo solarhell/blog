@@ -14,10 +14,8 @@ module.exports = {
       anonymizeIP: false, // Should IPs be anonymized?
     },
     algolia: {
-      apiKey: 'api-key',
-      indexName: 'index-name',
-      appId: 'app-id', // Optional, if you run the DocSearch crawler on your own
-      algoliaOptions: {}, // Optional, if provided by Algolia
+      apiKey: 'a3bf15c6f157bdbdb0b3b2a00fec99f0',
+      indexName: 'solarhell',
     },
     navbar: {
       title: 'solarhell的小破站',
